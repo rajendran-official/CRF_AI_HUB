@@ -1,0 +1,6 @@
+# Python dependencies
+pandas
+openpyxl
+sentence-transformers
+streamlit
+numpy
