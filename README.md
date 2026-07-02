@@ -1,6 +1,6 @@
 CRF AI Assistant
 
-A Streamlit-based intelligent search engine for querying CRF (Change Request / Configuration Request) data. It allows users to search by global keywords, CRF IDs, or specific personnel using semantic AI matching, with a built-in fallback for restricted corporate networks.
+A Streamlit-based intelligent search engine for querying CRF (Change Request / Configuration Request) data. It allows users to search by global keywords, CRF IDs, or specific personnel using semantic AI matching.
 📁 Folder Structure
 
 Create a folder for your project and organize the files exactly as shown below:
